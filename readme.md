@@ -127,7 +127,8 @@ docker run --name servidor-mySQL -v /var/lib/mysql:/etc/mysql/conf.d -e   MYSQL_
 
 Agora, Abra o docker desktop e veja seu container  rodando.
 
-
-
+<div align="Center">
+    <img src="dockerdesktop.png" width="650" height="350"/>
+</div>
 
 
