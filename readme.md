@@ -30,7 +30,7 @@ https://ubuntu.com/download/desktop/thank-you?version=22.04&architecture=amd64
 
 
 ### Docker 
-!["Docker"] (https://external-preview.redd.it/_w6PD3pDcEhKgKBmhtVxI42Jr2DjQNn2luozVVUOfLc.jpg?auto=webp&s=bb5e31b86295c2353e40a079577ceaac7c021869)
+!["Docker"](https://cdn.iconscout.com/icon/free/png-256/docker-2752207-2285024.png)
 
 
     Docker é um conjunto de produtos de plataforma como serviço que usam virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres. Os contêineres são isolados uns dos outros e agrupam seus próprios softwares, bibliotecas e arquivos de configuração.
